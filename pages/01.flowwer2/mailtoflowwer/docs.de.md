@@ -1,5 +1,5 @@
 ---
-title: MailToFlowwer
+title: E-Mail
 taxonomy:
     category:
         - docs
