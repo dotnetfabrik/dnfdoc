@@ -1,5 +1,5 @@
 ---
-title: F2API
+title: API
 taxonomy:
     category:
         - docs
