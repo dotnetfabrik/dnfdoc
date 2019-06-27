@@ -1,5 +1,5 @@
 ---
-title: F2CLI
+title: CLI
 taxonomy:
     category:
         - docs
