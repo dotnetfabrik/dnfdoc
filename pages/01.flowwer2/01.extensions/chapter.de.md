@@ -4,8 +4,8 @@ taxonomy:
     category: docs
 ---
 
-### Chapter Number
+### -
 
-# Chapter Title
+# Erweiterungen
 
-Chapter description.
+Erweiterungen und Schnittstellen zwischen FLOWWER 2 und anderen Systemen.
