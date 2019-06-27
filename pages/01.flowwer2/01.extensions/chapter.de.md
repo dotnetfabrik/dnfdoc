@@ -1,5 +1,5 @@
 ---
-title: Schnittstellen
+title: Erweiterungen
 taxonomy:
     category: docs
 ---
