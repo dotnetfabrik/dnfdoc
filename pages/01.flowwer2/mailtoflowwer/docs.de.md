@@ -6,4 +6,5 @@ taxonomy:
 visible: true
 ---
 
-Your page content goes here.
+# E-Mail-Schnittstelle `MailToFlowwer`
+Über die MailToFlowwer-Schnittstelle können Sie Belege per E-Mail direkt in Ihr FLOWWER2-Konto übertragen.
