@@ -4,8 +4,8 @@ taxonomy:
     category: docs
 ---
 
-### Chapter Number
+### -
 
-# Chapter Title
+# CoreDMS
 
-Chapter description.
+Handbuch und technische Dokumentation

@@ -1,11 +1,13 @@
 ---
-title: FLOWWER2
+title: 'FLOWWER v2'
 taxonomy:
     category: docs
 ---
 
 ### -
 
-# FLOWWER2
+# FLOWWER v2
 
-Technische Dokumentation
+Notizen und Anmerkungen der Entwickler 
+
+_Im Aufbau - Vorschläge und Anregungen bitte an [support@flowwer2.de](mailto:support@flowwer2.de)_

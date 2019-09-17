@@ -10,8 +10,8 @@ visible: true
 
 The [FLOWWER2](https://www.flowwer2.de) client command-line app. Supports requesting tenant-status (`f2cli status`) and downloading (`download`) documents.
 
+...
 
-![SeqCli Screenshot](https://raw.githubusercontent.com/datalust/seqcli/dev/asset/SeqCli.png){.img-fluid}
 
 ## Getting started
 

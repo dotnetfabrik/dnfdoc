@@ -1,0 +1,138 @@
+[
+  {
+    "Account": {
+      "Id": "DotNetFabrik",
+      "ExternalId": "extern!",
+      "CustomTitle": "DotNetFabrik",
+      "Name1": null,
+      "Name2": null,
+      "Street": null,
+      "ZipCode": null,
+      "Location": null,
+      "TaxIdNumber": null,
+      "CentralPhone": null,
+      "ContactPersonName": null,
+      "Email": null,
+      "Website": null
+    },
+    "Bill": {
+      "RunningNo": 3,
+      "Timestamp": "2019-05-13T18:30:00",
+      "Start": "2019-04-13T18:20:47.105Z",
+      "Stop": "2019-05-13T18:20:46.105Z",
+      "TotalDays": 30,
+      "DocumentUploads": 2,
+      "DocumentUploadBytes": 89832,
+      "Features": {
+        "Activation": {
+          "BookedDays": 30,
+          "PercentDuration": 100
+        },
+        "CustomizedMails": {
+          "BookedDays": 20,
+          "PercentDuration": 67,
+          "DifferingStart": "2019-04-24T16:45:35.579Z"
+        }
+      },
+      "Companies": [
+        {
+          "Name": "DotNetFabrik",
+          "ElementId": 75,
+          "Features": {
+            "Activation": {
+              "BookedDays": 30,
+              "PercentDuration": 100
+            }
+          }
+        },
+        {
+          "Name": "test",
+          "ElementId": 81,
+          "Features": {
+            "Activation": {
+              "BookedDays": 30,
+              "PercentDuration": 100
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "Account": {
+      "Id": "Test1",
+      "ExternalId": "ExternalId (z.B. centron)",
+      "CustomTitle": null,
+      "Name1": "CompanyName1",
+      "Name2": "CompanyName2",
+      "Street": "CompanyStreet",
+      "ZipCode": "CompanyZipCode",
+      "Location": "CompanyLocation",
+      "TaxIdNumber": "CompanyTaxIdNumber",
+      "CentralPhone": "CompanyCentralPhone",
+      "ContactPersonName": "CompanyContactPersonName",
+      "Email": "CompanyEmail",
+      "Website": "CompanyWebsite"
+    },
+    "Bill": {
+      "RunningNo": 2,
+      "Timestamp": "2019-05-26T12:00:00",
+      "Start": "2019-04-14T16:21:31.423Z",
+      "Stop": "2019-05-14T16:21:30.423Z",
+      "TotalDays": 30,
+      "DocumentUploads": 6,
+      "DocumentUploadBytes": 652260,
+      "Features": {
+        "Activation": {
+          "BookedDays": 30,
+          "PercentDuration": 100
+        },
+        "CustomizedMails": {
+          "BookedDays": 21,
+          "PercentDuration": 70,
+          "DifferingStart": "2019-04-24T15:29:59.027Z"
+        }
+      },
+      "Companies": [
+        {
+          "Name": "test",
+          "ElementId": 6313,
+          "Features": {
+            "Activation": {
+              "BookedDays": 30,
+              "PercentDuration": 100
+            }
+          }
+        },
+        {
+          "Name": "Test1-Firma",
+          "ElementId": 9,
+          "Features": {
+            "Activation": {
+              "BookedDays": 30,
+              "PercentDuration": 100
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "Account": {
+      "Id": "test2",
+      "ExternalId": null,
+      "CustomTitle": null,
+      "Name1": null,
+      "Name2": null,
+      "Street": null,
+      "ZipCode": null,
+      "Location": null,
+      "TaxIdNumber": null,
+      "CentralPhone": null,
+      "ContactPersonName": null,
+      "Email": null,
+      "Website": null
+    },
+    "Bill": null
+  }
+]
